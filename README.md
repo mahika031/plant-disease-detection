@@ -15,7 +15,7 @@ Result Images Includes :-
 - Sample Predictions
  
  ## Tools
-TensorFlow, Keras, scikit-learn, Kaggle GPU
+TensorFlow, Keras, Kaggle GPU
 
 ## Kaggle Notebook
 The whole model was made on Kaggle notebook :- https://www.kaggle.com/code/mayushi404/plant-disease-detection-cnn-model
